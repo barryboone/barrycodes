@@ -2,7 +2,7 @@
 // Video 2
 // Perlin clouds.
 // Written using javascript and p5js.
-
+ 
 function setup() {
 	// Create a canvas to draw in, 600 pixels wide by 600 high.
 	createCanvas(600, 600);
