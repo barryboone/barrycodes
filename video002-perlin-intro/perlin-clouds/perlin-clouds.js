@@ -7,9 +7,6 @@ function setup() {
 	// Create a canvas to draw in, 600 pixels wide by 600 high.
 	createCanvas(600, 600);
 
-	// Make the background white.
-	background(255);
-
 	// Don't draw a border on the rectangle.
 	noStroke();
 
